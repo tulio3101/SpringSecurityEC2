@@ -2,6 +2,12 @@
 
 A secure, scalable web application demonstrating enterprise-grade security practices using Spring Boot backend and Apache frontend, deployed on AWS EC2 infrastructure. This project implements TLS/SSL encryption, Bcrypt password hashing, token-based authentication, and follows industry best practices for secure application design.
 
+## Explanation Video
+
+Explanation video about workshop for the security design application
+
+[Explanation](https://www.youtube.com/watch?v=CrIMu6kM8wI)
+
 
 ## Overview
 
